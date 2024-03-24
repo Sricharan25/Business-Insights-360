@@ -61,12 +61,13 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project.
 
 # Data Model
-<img src="https://github.com/Sricharan25/Business-Insights-360/blob/main/resources/data_model.png"
+<img src="https://github.com/Sricharan25/Business-Insights-360/blob/main/resources/data_model.png">
 # Dashboard designing
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
 
 # Home view
-In Home view, all the views button will be available. User will land on specific view page by clicking the button
+In Home view, all the views button will be available. User will land on specific view page by clicking the button.
+<img src ="https://github.com/Sricharan25/Business-Insights-360/blob/main/resources/home_view.png">
 
 Info
 Finance View
