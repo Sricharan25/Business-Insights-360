@@ -8,48 +8,54 @@ AtliQ Hardware is experiencing significant growth and has made the strategic dec
 
 # Tech stacks
 
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
+<ul>
+  <li>SQL</li>
+  <li>PowerBi Desktop</li>
+  <li>Excel</li>
+  <li>DAX language</li>
+  <li>DAX studio (for optimizing the report)</li>
+</ul>
 
 # PowerBI techniques Learnt
-What are all the questions should be asked before staring the project.
-Creating calculated columns.
-creating measure using DAX language.
-Data modeling.
-Using Bookmarks to switch between two visuals.
-Page navigation with buttons.
-Using divide function to prevent zero division errors.
-creating date table using m language.
-Dynamic titles based on the applied filters.
-Using KPI indicators.
-Conditional formatting the values in visuals using icons or background color.
-Data validation techniques.
-PowerBi services.
-Publishing reports to PowerBi services.
-Setting up personal gateway to set up the auto refresh of data.
-PowerBi App creation.
-Collaboration, workspace, access permissions in PowerBi services.
-And more 😅
+
+<ul>
+  <li>What are all the questions should be asked before staring the project.</li>
+  <li>Creating calculated columns.</li>
+  <li>creating measure using DAX language.</li>
+  <li>Data modeling.</li>
+  <li>Using Bookmarks to switch between two visuals.</li>
+  <li>Page navigation with buttons.</li>
+  <li>Using divide function to prevent zero division errors.</li>
+  <li>creating date table using m language.</li>
+  <li>Dynamic titles based on the applied filters.</li>
+  <li>Using KPI indicators.</li>
+  <li>Conditional formatting the values in visuals using icons or background color.</li>
+  <li>Data validation techniques.</li>
+  <li>PowerBi services.</li>
+  <li>Publishing reports to PowerBi services.</li>
+  <li>Setting up personal gateway to set up the auto refresh of data.</li>
+  <li>Collaboration, workspace, access permissions in PowerBi services.</li>
+</ul>
+
 
 # Business related terms
-Gross price
-Pre-invoice deductions
-Post-Invoice deductions
-Net Invoice sale
-Gross Margin
-Net sales
-Net profit
-COGC - cost of goods sold
-YTD - Year to Date
-YTG - Year to Go
-Direct
-Retailer
-Distributors
-Consumer
+
+<ul>
+  <li>Gross price</li>
+  <li>Pre-invoice deductions</li>
+  <li>Post-Invoice deductions</li>
+  <li>Net Invoice sales</li>
+  <li>Gross Margin</li>
+  <li>Net sales</li>
+  <li>Net profit</li>
+  <li>COGC - cost of goods sold</li>
+  <li>YTD - Year to Date</li>
+  <li>YTG - Year to Go</li>
+  <li>Direct</li>
+  <li>Retailer</li>
+  <li>Distributors</li>
+  <li>Consumer</li>
+</ul>
 
 # Company’s back ground
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel.
@@ -70,13 +76,15 @@ Based on the mock ups received as requirement, the team will start designing the
 In Home view, all the views button will be available. User will land on specific view page by clicking the button.
 <img src ="https://github.com/Sricharan25/Business-Insights-360/blob/main/resources/home_view.png">
 
-Info
-Finance View
-Sales View
-Marketing View
-Supply chain View
-Executive View
-Support
+<ul>
+  <li>Info</li>
+  <li>Finance View</li>
+  <li>Sales View</li>
+  <li>Marketing View</li>
+  <li>Supply chain View</li>
+  <li>Executive View</li>
+  <li>Support</li>
+</ul>
 
 # Info Page
 <img src="https://github.com/Sricharan25/Business-Insights-360/blob/main/resources/info.png">
